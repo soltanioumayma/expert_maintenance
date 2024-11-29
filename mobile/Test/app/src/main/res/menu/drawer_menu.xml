@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_interventions"
+        android:title="Interventions"
+        android:icon="@drawable/ic_intervention" />
+    <item
+        android:id="@+id/menu_assign"
+        android:title="Interventions à assigner"
+        android:icon="@drawable/ic_assign" />
+    <item
+        android:id="@+id/menu_messages"
+        android:title="Messages"
+        android:icon="@drawable/ic_messages" />
+    <item
+        android:id="@+id/menu_client"
+        android:title="Client"
+        android:icon="@drawable/ic_client" />
+    <item
+        android:id="@+id/menu_addresses"
+        android:title="Adresses"
+        android:icon="@drawable/ic_addresses" />
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Paramètres"
+        android:icon="@drawable/ic_settings" />
+    <item
+        android:id="@+id/menu_about"
+        android:title="À propos"
+        android:icon="@drawable/ic_about" />
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Déconnexion"
+        android:icon="@drawable/ic_logout" />
+</menu>
